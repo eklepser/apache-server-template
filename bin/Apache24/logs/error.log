@@ -1,0 +1,19 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 6888:tid 404] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Sat Nov 22 11:24:49.548893 2025] [mpm_winnt:notice] [pid 6888:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Sat Nov 22 11:24:49.548893 2025] [core:notice] [pid 6888:tid 404] AH00094: Command line: 'C:\\server\\bin\\Apache24\\bin\\httpd.exe -d C:/Server/bin/Apache24'
+[Sat Nov 22 11:24:49.553893 2025] [mpm_winnt:notice] [pid 6888:tid 404] AH00418: Parent: Created child process 5728
+[Sat Nov 22 11:24:49.970975 2025] [mpm_winnt:notice] [pid 5728:tid 464] AH00354: Child: Starting 64 worker threads.
+(OS 5)Access is denied.  : AH10014: Failed to open the 'Apache2.4' service
+[Sat Nov 22 11:39:40.818847 2025] [mpm_winnt:notice] [pid 6888:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Nov 22 11:39:42.822677 2025] [mpm_winnt:notice] [pid 5728:tid 464] AH00364: Child: All worker threads have exited.
+[Sat Nov 22 11:39:42.836654 2025] [mpm_winnt:notice] [pid 6888:tid 404] AH00430: Parent: Child process 5728 exited successfully.
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+Starting the 'Apache2.4' service
+(OS 5)Access is denied.  : AH10012: Failed to open the 'Apache2.4' service
+[Sat Nov 22 11:41:31.478029 2025] [mpm_winnt:notice] [pid 7020:tid 428] AH00455: Apache/2.4.62 (Win64) PHP/8.5.0 configured -- resuming normal operations
+[Sat Nov 22 11:41:31.478029 2025] [mpm_winnt:notice] [pid 7020:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Sat Nov 22 11:41:31.478029 2025] [core:notice] [pid 7020:tid 428] AH00094: Command line: 'C:\\server\\bin\\Apache24\\bin\\httpd.exe -d C:/Server/bin/Apache24'
+[Sat Nov 22 11:41:31.478029 2025] [mpm_winnt:notice] [pid 7020:tid 428] AH00418: Parent: Created child process 9812
